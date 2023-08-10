@@ -25,6 +25,7 @@ namespace GeniyIdiotConsoleApp
             answers[4] = 2;
             return answers;
         }
+        //коммнтарий
         static string[] GetDiagnoses(int countDiagnoses)
         {
             string[] diagnoses = new string[countDiagnoses];
